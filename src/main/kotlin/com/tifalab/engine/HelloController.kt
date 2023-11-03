@@ -1,4 +1,4 @@
-package com.example.demo
+package com.tifalab.engine
 
 import javafx.fxml.FXML
 import javafx.scene.control.Label
